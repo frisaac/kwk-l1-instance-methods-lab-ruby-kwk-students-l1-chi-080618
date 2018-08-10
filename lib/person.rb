@@ -5,3 +5,4 @@ class Person
   end
   def walk
     "The person is walking."
+end
