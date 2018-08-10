@@ -1,7 +1,7 @@
 # dog.rb
 class dog
   def bark
-    puts "Woof"
+    puts "Woof!"
   end
   def sit
     puts "The dog is sitting."
